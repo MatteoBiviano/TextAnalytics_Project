@@ -6,5 +6,5 @@ The Project is divided in 5 parts: Understanding/Preparation, Word Cloud, Dashbo
 In particular, the dashbord can be found in [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/matteobiviano/tweets-analysis-dashboard/main/dashboard.py)
 
 # Collaborators
-Federica Currao (@FedericaCurrao) <\br>
+Federica Currao (@FedericaCurrao) <br>
 Arianna Racioppa (@ariannaracioppa)
